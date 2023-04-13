@@ -1,0 +1,24 @@
+.seo-gpt-box{
+	width: 95%;
+    display: block;
+    position: relative;
+    padding: 20px 15px;
+    border: 1px solid #ddd;
+    background-color: #fdfdfd;
+    margin-bottom: 20px;
+}
+.seo-gpt-section {
+    position: relative;
+    padding: 0 20px 15px;
+    background-color: #fff;
+    box-shadow: 0 1px 2px rgb(0 0 0 / 20%);
+    width: auto;
+    max-width: 100%;
+    margin-bottom: 2em;
+}
+.seo-gpt-section input[type="text"]{
+	width: 100%;
+}
+.seo-gpt-section .mt_0{
+	margin-top: 0px;
+}
